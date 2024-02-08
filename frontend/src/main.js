@@ -5,6 +5,7 @@ import router from './router/index.js'
 import ElementPlus from 'element-plus'
 import 'bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap-icons/font/bootstrap-icons.min.css'
 import * as ElementPlusIconsVue from '@element-plus/icons-vue'
 import './style.scss'
 
